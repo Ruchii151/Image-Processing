@@ -37,6 +37,9 @@ This project is designed to explore core image processing operations using the *
    * Use `ImageDraw.Draw()` to overlay **red rectangles** at various coordinates
    * Observe the visual impact of changing rectangle position and dimensions
 
+     <img width="1589" height="730" alt="image" src="https://github.com/user-attachments/assets/e8e42afb-e93e-40cb-8f7c-703893c92f74" />
+
+
 ## Tools and Libraries Used
 
 * **Pillow (PIL)** – Image loading, enhancement, conversion, and drawing
